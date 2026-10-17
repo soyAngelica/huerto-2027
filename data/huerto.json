@@ -1,0 +1,142 @@
+{
+  "huerto": {
+    "nombre": "Huerto de Angelica",
+    "zona": "Tailandia",
+    "nota": "Datos de las fichas aproximados; ajústalos con lo que veas en tu huerto."
+  },
+  "especies": {
+    "zanahoria": {
+      "nombre": "Zanahoria",
+      "variedad": "Mini Express",
+      "color": "carrot",
+      "resumen": "Zanahoria mini de raíz corta, ideal para maceta. En Tailandia se siembra en la temporada fresca, de octubre a enero.",
+      "ficha": [
+        ["Cuándo sembrar", "Octubre a enero (evitar marzo a mayo por el calor)"],
+        ["Siembra", "Directa, no se trasplanta"],
+        ["Profundidad", "0.5 cm"],
+        ["Distancia", "3 a 5 cm entre plantas, 15 cm entre filas"],
+        ["Maceta", "15 a 20 cm de hondo"],
+        ["Germina en", "7 a 14 días"],
+        ["Cosecha", "50 a 70 días, raíz de 8 a 12 cm"],
+        ["Luz", "Sol de mañana; sombra en la tarde más caliente"],
+        ["Riego", "Que la tierra nunca se seque, sin encharcar"],
+        ["Suelo", "Suelto y arenoso, sin piedras ni abono fresco"]
+      ],
+      "pasos": [
+        "Afloja la tierra 20 cm y quita piedras.",
+        "Esparce la semilla en surcos de 0.5 cm y cúbrela con tierra fina.",
+        "Riega con atomizador y mantén húmedo hasta que nazca.",
+        "Cuando midan 5 cm, quita las que sobran para dejar una cada 3 a 5 cm.",
+        "Cosecha cuando el hombro asome con 1.5 a 2 cm de ancho."
+      ],
+      "problemas": [
+        ["No nace", "La tierra se secó. Cúbrela con un cartón húmedo hasta ver brotes."],
+        ["Se pudre o se raja", "Exceso de lluvia o riego irregular. En temporada de lluvias, ponla bajo techo."],
+        ["Raíz torcida o con piernas", "Piedras o abono fresco en la tierra."],
+        ["Hombros verdes", "Cubre la parte que asoma con tierra."]
+      ],
+      "consejos": [
+        "Siembra junto a cebolla o ajo para alejar plagas.",
+        "Siembra un poco cada 2 o 3 semanas para cosechar seguido."
+      ],
+      "doc": "https://claude.ai/code/artifact/7b169d29-55da-4fd9-b383-5fcc27ffd8d0"
+    },
+    "jalapeno": {
+      "nombre": "Chile jalapeño",
+      "variedad": "",
+      "color": "leaf",
+      "resumen": "Planta de calor que se da muy bien en Tailandia y puede producir varios meses seguidos. Empiézalo en semillero y trasplántalo a la cama.",
+      "ficha": [
+        ["Cuándo sembrar", "Octubre a febrero; evitar lo más fuerte de las lluvias"],
+        ["Siembra", "En semillero y trasplante a las 6 a 8 semanas"],
+        ["Profundidad", "0.5 cm"],
+        ["Distancia", "45 cm entre plantas"],
+        ["Maceta", "20 a 30 litros, 30 cm de hondo"],
+        ["Germina en", "7 a 14 días (con calor, 25 a 30 °C)"],
+        ["Cosecha", "70 a 80 días después del trasplante"],
+        ["Altura", "60 a 90 cm"],
+        ["Luz", "Sol pleno, 6 a 8 horas"],
+        ["Riego", "Profundo cuando la tierra esté seca a 3 cm; sin encharcar"],
+        ["Suelo", "Fértil, con composta y buen drenaje, pH 6 a 7"]
+      ],
+      "pasos": [
+        "Siembra 2 semillas por vasito a 0.5 cm y mantén húmedo en un lugar cálido.",
+        "Deja la plántula más fuerte de cada vasito.",
+        "Trasplanta a la cama cuando mida 10 a 15 cm y tenga 4 a 6 hojas, a 45 cm de distancia.",
+        "Pon un tutor (palo) cuando empiece a dar fruto, para que no se doble.",
+        "Cosecha cuando el chile esté verde oscuro, firme y de 6 a 8 cm. Si lo dejas, se pone rojo y más picante."
+      ],
+      "problemas": [
+        ["Se caen las flores", "Demasiado calor (más de 32 °C) o riego irregular. Riega parejo y da sombra ligera en la tarde."],
+        ["Pulgones o mosca blanca", "Bajo las hojas. Agua a presión o jabón potásico."],
+        ["Mancha negra en la punta", "Riego irregular. Riega de forma constante."],
+        ["Hojas amarillas", "Falta de abono o exceso de agua. Revisa el drenaje y agrega composta."]
+      ],
+      "consejos": [
+        "En tu cama, trasplanta los jalapeños el mismo día que siembras las zanahorias.",
+        "Cosechar seguido hace que la planta dé más chiles."
+      ],
+      "doc": "https://claude.ai/code/artifact/92762d5b-216b-49f8-a6a6-0cde8870a084"
+    },
+    "marigold": {
+      "nombre": "Marigold",
+      "variedad": "cempasúchil",
+      "color": "marigold",
+      "resumen": "Flor muy fácil que aguanta sol pleno y calor. En tu cama protege a las zanahorias de los gusanitos del suelo (nematodos) y atrae insectos buenos.",
+      "ficha": [
+        ["Cuándo sembrar", "Todo el año; mejor de octubre a febrero"],
+        ["Siembra", "En semillero y trasplante, o directa"],
+        ["Profundidad", "0.5 cm"],
+        ["Distancia", "25 a 30 cm entre plantas"],
+        ["Maceta", "15 a 20 cm de hondo"],
+        ["Germina en", "4 a 7 días"],
+        ["Flores", "A los 45 a 60 días"],
+        ["Luz", "Sol pleno, 6 a 8 horas"],
+        ["Riego", "Cuando la tierra esté seca a 2 cm; sin mojar las flores"],
+        ["Suelo", "Cualquiera con buen drenaje"]
+      ],
+      "pasos": [
+        "Siembra 2 semillas por vasito o directo en la cama, a 0.5 cm de hondo.",
+        "Mantén húmedo; nacen en menos de una semana.",
+        "Trasplanta cuando tenga 4 hojas, a 25 a 30 cm de otras plantas.",
+        "Corta la punta cuando mida 15 cm para que se ramifique y dé más flores.",
+        "Quita las flores secas para que siga floreando."
+      ],
+      "problemas": [
+        ["Hojas con polvo blanco u hongos", "Demasiada humedad. Riega al pie, por la mañana."],
+        ["Araña roja", "Puntitos y telaraña fina por calor seco. Rocía las hojas con agua o jabón potásico."],
+        ["Tallo podrido", "Encharcamiento. Mejora el drenaje."]
+      ],
+      "consejos": [
+        "Para proteger a las zanahorias, déjala crecer al menos 2 a 3 meses en la cama.",
+        "Guarda semillas de las flores secas para la siguiente siembra."
+      ],
+      "doc": "https://claude.ai/code/artifact/e01ddde5-17c5-40d3-9392-ed60ff25a4dd"
+    }
+  },
+  "camas": [
+    {
+      "id": "cama-1",
+      "nombre": "Cama 1",
+      "largo_cm": 120,
+      "ancho_cm": 60,
+      "sol": "Sol pleno, 6 a 8 h",
+      "plantas": [
+        { "especie": "jalapeno", "x": 15, "y": 30, "radio": 7 },
+        { "especie": "marigold", "x": 37.5, "y": 30, "radio": 5 },
+        { "especie": "jalapeno", "x": 60, "y": 30, "radio": 7 },
+        { "especie": "marigold", "x": 82.5, "y": 30, "radio": 5 },
+        { "especie": "jalapeno", "x": 105, "y": 30, "radio": 7 }
+      ],
+      "filas": [
+        { "especie": "zanahoria", "y": 5, "desde": 5, "hasta": 115, "cada": 5 },
+        { "especie": "zanahoria", "y": 15, "desde": 5, "hasta": 115, "cada": 5 },
+        { "especie": "zanahoria", "y": 45, "desde": 5, "hasta": 115, "cada": 5 },
+        { "especie": "zanahoria", "y": 55, "desde": 5, "hasta": 115, "cada": 5 }
+      ]
+    }
+  ],
+  "bitacora": [
+    { "fecha": "2026-10-17", "cama": "cama-1", "nota": "Planeamos la cama: 3 jalapeños, 2 marigold y 4 filas de zanahoria Mini Express." }
+  ]
+}
